@@ -1,7 +1,7 @@
 {
   "name": "language-lustre",
-  "version": "0.0.1",
-  "publisher" : "MercierCorentin",
+  "version": "0.0.2",
+  "publisher": "MercierCorentin",
   "description": "Lustre syntax highlighting and snippets",
   "keywords": [
     "Programming Languages",
@@ -12,6 +12,5 @@
   "engines": {
     "atom": "*"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
