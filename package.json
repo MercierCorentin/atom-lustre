@@ -1,0 +1,17 @@
+{
+  "name": "language-lustre",
+  "version": "0.1.1",
+  "publisher" : "MercierCorentin",
+  "description": "Lustre syntax highlighting and snippets",
+  "keywords": [
+    "Programming Languages",
+    "Snippets"
+  ],
+  "repository": "https://github.com/MercierCorentin/atom-lustre",
+  "license": "MIT",
+  "engines": {
+    "atom": "*"
+  },
+  "dependencies": {
+  }
+}
