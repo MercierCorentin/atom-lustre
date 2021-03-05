@@ -1,9 +1,14 @@
 # Atom Lustre extension
 
-This extension provides a syntax highlighting and snippets for LUSTRE language.
+This extension provides syntax highlighting and snippets for the LUSTRE language on Atom.
+
 
 ## Installation
-<!-- TODO -->
+
+- Go to `Edit`-> `Preferences`. 
+- On the opened tab, go to `Install` on the left menu.
+- In the search box search `language-lustre`.
+- Install the package `language-lustre`.
 
 
 ## Lustre
@@ -32,6 +37,3 @@ This extension implements Lustre Core syntax highlight and snippets. Lustre Core
 ## Issues
 
 For issues you can either create a Github issue or send an email to the maintainer (corentin.mercier(at)irsn.fr).
-
-## Versions
-<!-- TO DO -->

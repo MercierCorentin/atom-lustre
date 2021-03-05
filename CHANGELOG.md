@@ -1,2 +1,10 @@
-## 0.0.1 - Alpha Release
+# Change log
+
+## 0.0.3 - Alpha Release
+
+- Comments highlighting improvement
+
+## 0.O.2 - Alpha Release
+First release :
 - Lustre core syntax highlighting
+- Snippets
