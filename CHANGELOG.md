@@ -1,5 +1,9 @@
 # Change log
 
+## 0.0.4 - Alpha Realease
+
+- Changes on REAMDE and CHANGELOG
+
 ## 0.0.3 - Alpha Release
 
 - Comments highlighting improvement
