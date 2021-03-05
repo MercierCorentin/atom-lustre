@@ -77,6 +77,9 @@ repository:
 			{
 				include: "#varDecl"
 			}
+			{
+				include: "#comments"
+			}
 		]
 		end: "\\)"
 	headerNext:
@@ -87,6 +90,9 @@ repository:
 		patterns: [
 			{
 				include: "#varDecl"
+			}
+			{
+				include: "#comments"
 			}
 		]
 		end: "\\)\\s*;?\\s*$"
@@ -321,6 +327,9 @@ repository:
 			}
 			{
 				include: "#keywords"
+			}
+			{
+				include: "#comments"
 			}
 			{
 				match: "(^|(?<=\\W))(\\w+)(?=\\()"
