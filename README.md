@@ -2,6 +2,7 @@
 
 This extension provides syntax highlighting and snippets for the LUSTRE language on Atom.
 
+Atom is now abandonned, this pckage is not maintained anymore, for VSCode use [https://github.com/MercierCorentin/vscode-lustre](https://github.com/MercierCorentin/vscode-lustre)
 
 ## Installation
 
